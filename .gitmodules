@@ -1,4 +1,4 @@
 [submodule "master-pywal-theme"]
     path = master-pywal-theme
-    url = https://github.com/AnthonyMichaelTDM/master-pywal-theme.git
+    url = https://github.com/AnthonyMichaelTDM/master-pywal-theme/
     branch = main
