@@ -2,7 +2,7 @@ definitions_version = 1
 
 [[theme]]
 name = "master-pywal-theme"
-repository = "https://github.com/AnthonyMichaelTDM/master-pywal-theme/"
+repository = "https://github.com/AnthonyMichaelTDM/master-pywal-theme"
 commit = "*"
 version = "1.0.0"
 leftwm_versions = "*"
