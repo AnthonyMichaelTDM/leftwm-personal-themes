@@ -5,5 +5,5 @@
 
 [submodule "mpt-tablet"]
 	path = mpt-tablet
-	url = https://github.com/AnthonyMichaelTDM/mpt-tablet/
+	url = https://github.com/AnthonyMichaelTDM/mpt-tablet
     branch = main
