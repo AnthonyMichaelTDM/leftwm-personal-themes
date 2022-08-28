@@ -8,7 +8,7 @@ version = "2.0.0"
 leftwm_versions = "*"
 
 [[theme]]
-name = "mpt"
+name = "mpt-tablet"
 repository = "https://github.com/AnthonyMichaelTDM/mpt-tablet/"
 commit = "*"
 version = "2.0.0"
