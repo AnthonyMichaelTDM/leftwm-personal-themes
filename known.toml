@@ -1,4 +1,4 @@
-definitions_version = 1
+definitions_version = 2
 
 [[theme]]
 name = "master-pywal-theme"
@@ -6,3 +6,11 @@ repository = "https://github.com/AnthonyMichaelTDM/master-pywal-theme/"
 commit = "*"
 version = "2.0.0"
 leftwm_versions = "*"
+
+[[theme]]
+name = "mpt"
+repository = "https://github.com/AnthonyMichaelTDM/mpt-tablet/"
+commit = "*"
+version = "2.0.0"
+leftwm_versions = "*"
+
