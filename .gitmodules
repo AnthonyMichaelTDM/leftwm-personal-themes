@@ -1,1 +1,4 @@
 
+[submodule "mpt-tablet"]
+	path = mpt-tablet
+	url = git@github.com:AnthonyMichaelTDM/mpt-tablet.git
