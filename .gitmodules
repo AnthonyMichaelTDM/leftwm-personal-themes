@@ -2,3 +2,6 @@
 [submodule "mpt-tablet"]
 	path = mpt-tablet
 	url = git@github.com:AnthonyMichaelTDM/mpt-tablet.git
+[submodule "master-pywal-theme"]
+	path = master-pywal-theme
+	url = git@github.com:AnthonyMichaelTDM/master-pywal-theme.git
